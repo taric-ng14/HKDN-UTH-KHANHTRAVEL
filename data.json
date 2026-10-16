@@ -1,0 +1,165 @@
+{
+ "rooms": {
+  "1": {
+   "ten": "Lễ tân – Dịch vụ lẻ",
+   "topics": [
+    {
+     "id": "LT1",
+     "ten": "Tối ưu hóa quy trình đặt phòng khách sạn Quốc nội trong chuỗi cung ứng dịch vụ của KhanhTravel"
+    },
+    {
+     "id": "LT2",
+     "ten": "Tối ưu hóa quy trình đặt phòng khách sạn Quốc tế trong chuỗi cung ứng dịch vụ của KhanhTravel"
+    },
+    {
+     "id": "LT3",
+     "ten": "Tối ưu hóa quy trình lựa chọn và điều phối xe du lịch theo nhu cầu từng nhóm khách hàng tại KhanhTravel"
+    }
+   ]
+  },
+  "2": {
+   "ten": "Lữ hành",
+   "topics": [
+    {
+     "id": "LH1",
+     "ten": "Quản lý nhà cung cấp xe du lịch và tối ưu hóa năng lực vận chuyển tại KhanhTravel"
+    },
+    {
+     "id": "LH2",
+     "ten": "Tối ưu hóa quy trình đặt hướng dẫn viên du lịch theo nhu cầu tour tại KhanhTravel"
+    },
+    {
+     "id": "LH3",
+     "ten": "Tối ưu hoá quy trình phối hợp giữa KhanhTravel và khách sạn trong đặt phòng khách đoàn"
+    }
+   ]
+  },
+  "3": {
+   "ten": "Vận chuyển",
+   "topics": [
+    {
+     "id": "VC1",
+     "ten": "Tối ưu hóa quy trình đặt vé máy bay trong nước tại KhanhTravel"
+    },
+    {
+     "id": "VC2",
+     "ten": "Quản lý đặt vé máy bay quốc tế và tối ưu hóa khả năng đáp ứng nhu cầu khách hàng tại KhanhTravel"
+    },
+    {
+     "id": "VC3",
+     "ten": "Tối ưu hóa quy trình đặt series vé đoàn tại công ty Khanhtravel"
+    }
+   ]
+  }
+ },
+ "teams": {
+  "1-1": {
+   "nhom": 1,
+   "to": 1,
+   "truong": "Nguyễn Thị Hồng Quân",
+   "members": [
+    "Nguyễn Thị Hồng Quân",
+    "Đỗ Thuỳ Dương",
+    "Đỗ Thị Ánh Hồng",
+    "Nguyễn Thị Thuỳ Nhung",
+    "Phan Thị Kim Huỳnh"
+   ]
+  },
+  "1-2": {
+   "nhom": 1,
+   "to": 2,
+   "truong": "Nguyễn Như Quỳnh",
+   "members": [
+    "Nguyễn Như Quỳnh",
+    "Phùng Hạnh Nguyên",
+    "Trần Vũ Diễm Quỳnh",
+    "Nguyễn Thị Hiểu Nguyên",
+    "Đỗ Thẩm Y Đình"
+   ]
+  },
+  "1-3": {
+   "nhom": 1,
+   "to": 3,
+   "truong": "Võ Thị Ngọc Hân",
+   "members": [
+    "Lê Trần Tứ Hải",
+    "Trần Nguyễn Minh An",
+    "Lê Ngọc Hải",
+    "Võ Thị Ngọc Hân",
+    "Bùi Việt Hảo"
+   ]
+  },
+  "2-1": {
+   "nhom": 2,
+   "to": 1,
+   "truong": "Nguyễn Đỗ Cúc Uyên",
+   "members": [
+    "Trần Hoàng Vy",
+    "Nguyễn Đỗ Cúc Uyên",
+    "Phạm Thanh Toàn",
+    "Lê Thị Diệu Trâm",
+    "Đàm Mỹ Trinh"
+   ]
+  },
+  "2-2": {
+   "nhom": 2,
+   "to": 2,
+   "truong": "Lương Vân Ly",
+   "members": [
+    "Lương Vân Ly",
+    "Nguyễn Lê Bảo Ngọc",
+    "Nguyễn Thị Linh",
+    "Nguyễn Lê Vân Anh",
+    "Nguyễn Ngọc Nhi"
+   ]
+  },
+  "2-3": {
+   "nhom": 2,
+   "to": 3,
+   "truong": "Nguyễn Thị Tuyết Nha",
+   "members": [
+    "Nguyễn Thị Tuyết Nha",
+    "Võ Như Quỳnh",
+    "Đỗ Trần Pháp Nhị",
+    "Trương Thị Hạnh Quyên",
+    "Lê Thị Thắm"
+   ]
+  },
+  "3-1": {
+   "nhom": 3,
+   "to": 1,
+   "truong": "Trương Lê Đình Tới",
+   "members": [
+    "Trương Lê Đình Tới",
+    "Nguyễn Văn Tính",
+    "Nguyễn Quang Hiếu",
+    "Võ Thị Kim Hoanh",
+    "Lê Thị Hồng Huệ"
+   ]
+  },
+  "3-2": {
+   "nhom": 3,
+   "to": 2,
+   "truong": "Nguyễn Thị Kim Anh",
+   "members": [
+    "Nguyễn Thị Kim Anh",
+    "Lê Anh Dũng",
+    "Võ Hoàng Dung",
+    "Lê Thị Thanh Hương",
+    "Huỳnh Võ Hà My"
+   ]
+  },
+  "3-3": {
+   "nhom": 3,
+   "to": 3,
+   "truong": "Lê Quốc Phú",
+   "members": [
+    "Lê Quốc Phú",
+    "Nguyễn Lê Doanh Doanh",
+    "Tạ Thị Kim Linh",
+    "Võ Nguyễn Minh Thư",
+    "Trần Nguyễn Tommy"
+   ]
+  }
+ }
+}
