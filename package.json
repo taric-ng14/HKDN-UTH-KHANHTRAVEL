@@ -1,1 +1,13 @@
-{ "name": "khanhtravel-hkdn", "version": "1.0.0", "private": true, "engines": { "node": ">=18" } }
+
+{
+  "name": "khanhtravel-hkdn",
+  "version": "1.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.900.0",
+    "@aws-sdk/lib-dynamodb": "^3.900.0"
+  }
+}
